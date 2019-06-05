@@ -4,7 +4,7 @@ We are dedicated to connecting the world through a high level C++17 API and rela
 
 ### About
 
-Principal Author is [Cliff Green](https://github.com/cliff).
+Principal Author is [Cliff Green](https://github.com/cliffg-softwarelibre).
 
 Principal Co-author is [Thurman Gillespy](https://tgill880.github.io).
 
