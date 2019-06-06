@@ -8,7 +8,7 @@ Principal Author is [Cliff Green](https://github.com/cliffg-softwarelibre).
 
 Principal Co-author is [Thurman Gillespy](https://tgill880.github.io).
 
-Contributors include Roxanne Agerone and Nathan Deutsch.
+Collaborators are [Roxanne Agerone](http://linkedin.com/in/roxanne-a) and [Nathan Deutsch](http://linkedin.com/in/nathandeu).
 
 ### Repositories
 
