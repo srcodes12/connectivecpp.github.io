@@ -34,18 +34,16 @@ Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch]
 
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
-### Bios
+#### Bios
 
-Cliff Green (cliffg at connectivecpp dot com) is a software engineer and has worked for many years writing infrastructure libraries and applications for use in networked and distributed systems, typically where high reliability or uptime is required. The domains where he has worked include wireless networks (in particular cellular 9-1-1), location technology, and large scale embedded and simulation systems in the military aerospace industry. He has volunteered many years at [CppCon](https://cppcon.org/) (when it was in Bellevue) and presented at BoostCon (before it was renamed to [C++ Now](http://cppnow.org/)).
+**Cliff Green** (cliffg at connectivecpp dot com) is a software engineer and has worked for many years writing infrastructure libraries and applications for use in networked and distributed systems, typically where high reliability or uptime is required. The domains where he has worked include wireless networks (in particular cellular 9-1-1), location technology, and large scale embedded and simulation systems in the military aerospace industry. He has volunteered many years at [CppCon](https://cppcon.org/) (when it was in Bellevue) and presented at BoostCon (before it was renamed to [C++ Now](http://cppnow.org/)).
 
 Cliff lives in the Seattle area and you may know him from other interests including volleyball, hiking, railroading (both the model variety and the real life big ones), music, or even parent support activities (if you are having major difficulties with your teen check out the [Changes Parent Support Network](http://cpsn.org)).
 
-Thurman Gillespy (thurmang at connectivecpp dot com) is a software engineer although his first career was in diagnostic radiology, with stints at the University of Florida (1985 - 1990), University of Washington (1990 - 2008) and private practice in Seattle (2008 - 2015). In the 1990's, Thurman wrote Dr Razz, the first application that could display and manipulate radiology images on a Macintosh computer. In 2015 Thurman left medicine and went back to school to transform a life long hobby of programming into a second career as a software developer.
+**Thurman Gillespy** (thurmang at connectivecpp dot com, Thurman's [GitHub site](https://tgill880.github.io/)) is a software engineer although his first career was in diagnostic radiology, with stints at the University of Florida (1985 - 1990), University of Washington (1990 - 2008) and private practice in Seattle (2008 - 2015). In the 1990's, Thurman wrote Dr Razz, the first application that could display and manipulate radiology images on a Macintosh computer. In 2015 Thurman left medicine and went back to school to transform a life long hobby of programming into a second career as a software developer.
 
-[Click here](https://tgill880.github.io/) for Thurman's personal GitHub site.
+**Roxanne Agerone** (roxanne at connectivecpp dot com, Rox's [GitHub site](https://github.com/oxenran)) is a software engineer working in the Seattle area and loves classic cars (among other interests). She created the [Seattle C++ Meetup](https://www.meetup.com/Seattle-C-Meetup), typically meeting on Monday evenings, 6 pm, at Ballard Coffee Works, 2060 NW Market Street, Seattle.
 
-Roxanne Agerone (roxanne at connectivecpp dot com, [GitHub site](https://github.com/oxenran)) is a software engineer working in the Seattle area and loves classic cars (among other interests). She created the [Seattle C++ Meetup](https://www.meetup.com/Seattle-C-Meetup), typically meeting on Monday evenings, 6 pm, at Ballard Coffee Works, 2060 NW Market Street, Seattle.
+**Nathan Deutsch** (nathand at connectivecpp dot com, Nathan's [personal website](http://www.nathandeutsch.com)) is a software engineer working in Bellevue, Washington. He likes to study and play jazz guitar and go camping. He also claims to be the best pool player in the state, accepting all challengers (if you think you're good enough, contact him!).
 
-Nathan Deutsch (nathand at connectivecpp dot com, [personal website](http://www.nathandeutsch.com)) is a software engineer working in Bellevue, Washington. He likes to study and play jazz guitar and go camping. He also claims to be the best pool player in the state, accepting all challengers.
-
-Casey Ghilardi (caseyg at connectivecpp dot com) (info to be filled in).
+**Casey Ghilardi** (caseyg at connectivecpp dot com) (info to be filled in).
