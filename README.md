@@ -1,20 +1,20 @@
-## Welcome to Connective C++!
+# Welcome to Connective C++!
 
 We are dedicated to connecting the world through a high level, modern C++ networking API and related utilities.
 
-### Repositories
+## Repositories
 
 [chops-net-ip](https://connectivecpp.github.io/chops-net-ip), a high level, general purpose C++17 networking API that simplifies creating TCP and UDP network connections.
 
 [utility-rack](https://connectivecpp.github.io/utility-rack), a tasty collection of utilities, including general purpose functionality used in the Chops Net IP repository.
 
-### About
+## About
 
 Connective C++ is an open source project providing tasty libraries and code for networking applications written in the C++ language.
 
 Why C++? 
 
-### People
+## People
 
 Principal Author is [Cliff Green](https://github.com/cliffg-softwarelibre).
 
@@ -24,7 +24,7 @@ Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch]
 
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
-#### Bios
+### Bios
 
 Cliff Green (cliffg at connectivecpp dot com) is a software engineer and has worked for many years writing infrastructure libraries and applications for use in networked and distributed systems, typically where high reliability or uptime is required. The domains where he has worked include wireless networks (in particular cellular 9-1-1), location technology, and large scale embedded and simulation systems in the military aerospace industry. He has volunteered many years at [CppCon](https://cppcon.org/) (when it was in Bellevue) and presented at BoostCon (before it was renamed to [C++ Now](http://cppnow.org/)).
 
