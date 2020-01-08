@@ -16,13 +16,17 @@ Connective C++ is an open source project providing tasty libraries and code for 
 
 There is a need for easy-to-use, efficient, modern, asynchronous C++ libraries for connecting processes and devices.
 
+#### Really?
+
+Yes.
+
+There is specially a need for libraries with nice abstractions for common networking needs.
+
+Historically the useful and tasty abstractions have not been present in C++, or the abstractions did not provide scalability or flexibility. Connective C++ fills that need.
+
 #### Why C++? 
 
 For applications running on servers or workstations, there are many choices in languages and frameworks and environments. However, for smaller devices or mobile environments, efficiency and determinism and small environment footprints often rule out languages other than C or C++. In particular, an interpreted environment (e.g. with Python) or a virtual machine (e.g. JVM for Java) is often not possible, or is too resource intensive.
-
-Connective C++ provides libraries with high abstractions for general purpose networking.
-
-Historically the useful and tasty abstractions have not been present in C++, or the abstractions did not provide scalability or flexibility. Connective C++ fills that need.
 
 ## People
 
