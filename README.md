@@ -50,4 +50,4 @@ Cliff lives in the Seattle area and you may know him from other interests includ
 
 **Nathan Deutsch** ([personal website](http://www.nathandeutsch.com), nathand at connectivecpp dot com) is a software engineer working in Bellevue, Washington. He likes to study and play jazz guitar and go camping. He also claims to be the best pool player in the state, accepting all challengers (if you think you're good enough, contact him!).
 
-**Casey Ghilardi** (caseyg at connectivecpp dot com) (info to be filled in).
+**Casey Ghilardi** (caseyg at connectivecpp dot com) is a software engineer in the Seattle area, active in various open source projects. 
