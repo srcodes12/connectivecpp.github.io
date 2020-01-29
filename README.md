@@ -1,3 +1,5 @@
+![Test Logo](images/at_cliffs_house.png)
+
 # Welcome to Connective C++!
 
 We are dedicated to connecting the world through a high level, modern C++ networking API and related utilities.
