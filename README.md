@@ -1,5 +1,7 @@
 ![Test Logo](images/arielpivture23.png)
 
+(Logo not final, cleaned up, alternative versions coming soon.)
+
 # Welcome to Connective C++!
 
 We are dedicated to connecting the world through a high level, modern C++ networking API and related utilities.
