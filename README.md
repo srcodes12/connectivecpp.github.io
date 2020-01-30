@@ -1,4 +1,4 @@
-![Test Logo](images/at_cliffs_house.png)
+![Test Logo](images/arielpivture23.png)
 
 # Welcome to Connective C++!
 
