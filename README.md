@@ -38,6 +38,8 @@ Principal Co-author is [Thurman Gillespy](https://tgill880.github.io).
 
 Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch](https://github.com/n-deutsch), and [Casey Ghilardi](https://github.com/Crghilardi).
 
+Logo and banners designed by Ariel Peretz.
+
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
 ## Bios
@@ -53,3 +55,5 @@ Cliff lives in the Seattle area and you may know him from other interests includ
 **Nathan Deutsch** ([personal website](http://www.nathandeutsch.com), nathand at connectivecpp dot com) is a software engineer working in Bellevue, Washington. He likes to study and play jazz guitar and go camping. He also claims to be the best pool player in the state, accepting all challengers (if you think you're good enough, contact him!).
 
 **Casey Ghilardi** (caseyg at connectivecpp dot com) is a software engineer in the Seattle area, active in various open source projects. 
+
+**Ariel Peretz** (arielinseattle29 at gmail dot com) is an avid hiker living in the Puget Sound area. He plays indoor soccer, likes drawing, the New York Yankees, Montreal and often says "friends don't let friends drink Starbucks coffee".
