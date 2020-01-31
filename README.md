@@ -44,7 +44,11 @@ Logo and banners designed by Ariel Peretz.
 
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
-## Bios
+## Customers
+
+An early release of Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a startup creating awesome medical software and devices for respiratory monitoring.
+
+## Team Bios
 
 **Cliff Green** (cliffg at connectivecpp dot com) is a software engineer and has worked for many years writing infrastructure libraries and applications for use in networked and distributed systems, typically where high reliability or uptime is required. The domains where he has worked include wireless networks (in particular cellular 9-1-1), location technology, and large scale embedded and simulation systems in the military aerospace industry. He has volunteered many years at [CppCon](https://cppcon.org/) (when it was in Bellevue) and presented at BoostCon (before it was renamed to [C++ Now](http://cppnow.org/)).
 
