@@ -40,7 +40,7 @@ Principal Co-author is [Thurman Gillespy](https://tgill880.github.io).
 
 Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch](https://github.com/n-deutsch), and [Casey Ghilardi](https://github.com/Crghilardi).
 
-Logo and banners designed by Ariel Peretz.
+Logo and banner designed by Ariel Peretz.
 
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
