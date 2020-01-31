@@ -1,4 +1,4 @@
-![Test Logo](images/connective_logo_01_30_2020.png)
+![Test Logo](images/connective_logo_01_31_2020.png)
 
 *(Logo not final, many alternative versions will be placed here.)*
 
