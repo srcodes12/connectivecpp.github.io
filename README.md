@@ -1,6 +1,6 @@
-![Test Logo](images/arielpivture23.png)
+![Test Logo](images/connective_logo_01_30_2020.png)
 
-*(Logo not final, cleaned up, alternative versions coming soon.)*
+*(Logo not final, many alternative versions will be placed here.)*
 
 # Welcome to Connective C++!
 
