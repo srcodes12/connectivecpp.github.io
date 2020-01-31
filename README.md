@@ -44,9 +44,9 @@ Logo and banners designed by Ariel Peretz.
 
 Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
-## Customers
+## Who is Using Connective C++ Software?
 
-An early release of Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a startup creating awesome medical software and devices for respiratory monitoring.
+Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a startup creating awesome medical software and devices for respiratory monitoring.
 
 ## Team Bios
 
