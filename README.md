@@ -46,7 +46,7 @@ Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
 ## Who is Using Connective C++ Software?
 
-Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a startup creating awesome medical software and devices for respiratory monitoring.
+Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a Seattle startup creating awesome medical software and devices that uses high frequency sound to monitor respiration rate to detect opiod overdose and early signs of infection.
 
 ## Team Bios
 
