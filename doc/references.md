@@ -4,7 +4,7 @@
 
 - Chris Kohlhoff is a networking expert (among other expertises, including C++), creator of the Asio library and initial author of the C++ Networking Technical Standard (TS). Asio is [available here](https://think-async.com/) as well as at Chris' [GitHub site](https://github.com/chriskohlhoff/). Asio forms the basis for the C++ Networking Technical Standard (TS), which will be standardized in C++ 23 or C++ 26 (or thereabouts). Currently the Chops Net IP library uses the stand-alone Asio repository from Chris' GitHub account.
 
-- Vinnie Falco is the author of the Boost Beast library, available at [Boost.org](https://www.boost.org/). Beast is an excellent building block library for asynchronous (and synchronous) HTTP and WebSocket applications. The Beast library uses Asio. Vinnie is proficient in C++ including presenting at [CppCon](https:://cppcon.org/) and is also active in blockchain development and other technology areas. Vinnie has a [GitHub site](https://github.com/vinniefalco). While Chops Net IP does not depend on Beast, the choices and design rationale made by Vinnie in implementing Beast are highly helpful.
+- Vinnie Falco is the author of the Boost Beast library, available at [Boost.org](https://www.boost.org/). Beast is an excellent building block library for asynchronous (and synchronous) HTTP and WebSocket applications. The Beast library uses Asio. Vinnie is proficient in C++ including presenting at [CppCon](https://cppcon.org/) and is also active in blockchain development and other technology areas. Vinnie has a [GitHub site](https://github.com/vinniefalco). While Chops Net IP does not depend on Beast, the choices and design rationale made by Vinnie in implementing Beast are highly helpful.
 
 - Kirk Shoop is a C++ expert, particularly in the area of asynchronous design, and has presented multiple times at [CppCon](https://cppcon.org/). He is a co-author of the [Unified Executors Proposal for C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p0443r12.html) and has a [GitHub site](https://github.com/kirkshoop). 
 
@@ -14,9 +14,9 @@
 
 ## Useful Libraries
 
-- Martin Moene is a C++ expert and member and former web editor of [accu-org](https://github.com/accu-org). He provides an excellent set of header-only libraries that implement many useful C++ library features, both C++ 17 as well as future C++ standards. These include `std::optional`, `std::variant`, `std::any`, and `std::byte` (from C++ 17) as well as `std::expected` and `ring_span` (possibly in a future C++ standard). He also has multiple other useful repositories including an implementation of the C++ Guideline Support Library (GSL). Martin has a [GitHub site](https://github.com/martinmoene). 
+- Martin Moene is a C++ expert and member and former web editor of [accu-org](https://github.com/accu-org). He provides an excellent set of header-only libraries that implement many useful C++ library features, both C++ 17 as well as future C++ standards. These include `std::optional`, `std::variant`, `std::any`, and `std::byte` (from C++ 17) as well as `expected` and `ring_span` (possibly in a future C++ standard). He also has multiple other useful repositories including an implementation of the C++ Guideline Support Library (GSL). Martin has a [GitHub site](https://github.com/martinmoene). 
 
-- Justas Masiulis provides a nice [circular buffer implementation](https://github.com/JustasMasiulis/circular_buffer) used in the Utility Rack `wait_queue` test.
+- Justas Masiulis provides a nice [circular buffer implementation](https://github.com/JustasMasiulis/circular_buffer) used in the Utility Rack `wait_queue` unit test.
 
 ## Blogs, Articles, and Examples
 
@@ -38,14 +38,14 @@
 
 - Modern CMake design is important, although not a lot of reference material is available. See Daniel Pfeifer's C++Now 2017 talk on [Effective CMake](https://www.youtube.com/watch?v=bsXLMQ6WgIk) and Manuel Binna's [GitHub page](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1).
 
-An excellent book is [Professional CMake, A Practical Guide](https://crascit.com/professional-cmake/) by Craig Scott.
+- An excellent book is [Professional CMake, A Practical Guide](https://crascit.com/professional-cmake/) by Craig Scott.
 
-[Effective CMake](https://leanpub.com/effective-cmake), by Kai Wolf, is under development. Another book is under [development on GitHub](https://cliutils.gitlab.io/modern-cmake/).
+- [Effective CMake](https://leanpub.com/effective-cmake), by Kai Wolf, is under development. Another book is under [development on GitHub](https://cliutils.gitlab.io/modern-cmake/).
 
 
 ## Unit Testing
 
-- Phil Nash is the author of the Catch C++ unit testing library. The Catch library is available at https://github.com/catchorg/Catch2.
+- Phil Nash is the author of the Catch C++ unit testing library. The Catch library is [available here](https://github.com/catchorg/Catch2).
 
 ## Boost
 
