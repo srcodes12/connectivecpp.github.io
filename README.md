@@ -52,6 +52,20 @@ Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
 
 Chops Net IP is in use at [Sound Life Sciences](https://www.soundlifesci.com/), a Seattle startup creating awesome medical software and devices using high frequency sound to monitor respiration rate. This allows detection of opiod overdose, early signs of infection, and other breathing related disorders.
 
+## C++ Language Requirements and Alternatives
+
+C++ 17 is the primary baseline for the Connective C++ projects.
+
+A significant number of C++ 11 features are in the APIs and implementations. A C++ 03 version will not be provided in any of the Connective C++ repositories. 
+
+There are numerous C++ 14 and C++ 17 features in use, although many of them could be replaced with Boost (or similar) utilities or rewritten to use only C++ 11 capabilities. For users that don't want to use the latest C++ compilers or compile with C++ 17 flags, Martin Moene provides an excellent set of header-only libraries that implement many useful C++ library features, both C++ 17 as well as future C++ standards (see [References](doc/references.md)).
+
+While the main production branch will always be developed and tested with C++ 17 features (and relatively current compilers), alternative branches and forks for older compiler versions may be implemented. Collaboration (through forking, change requests, etc) is very welcome to achieve older compiler conformance.
+
+## References
+
+Connective C++ would not be possible without articles, libraries, and code examples from the C++ community. The [References](doc/references.md) page lists the primary influences and library providers on this project.
+
 ## Team Bios
 
 **Cliff Green** (cliffg at connectivecpp dot com) is a software engineer and has worked for many years writing infrastructure libraries and applications for use in networked and distributed systems, typically where high reliability or uptime is required. The domains where he has worked include wireless networks (in particular cellular 9-1-1), location technology, and large scale embedded and simulation systems in the military aerospace industry. He has volunteered many years at [CppCon](https://cppcon.org/) (when it was in Bellevue) and presented at BoostCon (before it was renamed to [C++ Now](http://cppnow.org/)).
