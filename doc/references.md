@@ -47,11 +47,12 @@
 
 - Phil Nash is the author of the Catch C++ unit testing library. The Catch library is [available here](https://github.com/catchorg/Catch2).
 
-## Boost
-
-- The Boost libraries collection is a high quality set of C++ libraries, available at https://www.boost.org/.
-
 ## Documentation
+
+- Sy Brand's [article on writing clear documentation](https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake/) has been invaluable. In addition, Sy is a well known C++ expert and presenter, known as TartanLLama, and his blog is [available here](https://blog.tartanllama.xyz).
 
 - Diagrams in the Connective C++ documentation are created using [draw.io](https://www.draw.io/).
 
+## Boost
+
+- The Boost libraries collection is a high quality set of C++ libraries, [available here](https://www.boost.org/).
