@@ -46,7 +46,7 @@ Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch]
 
 Logo and banner designed by Ariel Peretz.
 
-Contributions have been made by Matthew Briggs, Daniel Muldrew, and Bob Higgins.
+Contributions have been made by Matthew Earulic, Daniel Muldrew, Bob Higgins, and Matthew Briggs.
 
 ## Who is Using Connective C++ Software?
 
