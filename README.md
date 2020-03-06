@@ -80,4 +80,6 @@ Cliff lives in the Seattle area and you may know him from other interests includ
 
 **Casey Ghilardi** (caseyg at connectivecpp dot com) is a software engineer in the Seattle area, active in various open source projects. 
 
+**Bryan Concari** (irql at connectivecpp dot com) is a devops engineer in the Seattle area and likes to play guitar and bass. He is a computer enthusiast through and through, with a particular interest in distributed software and systems internals.
+
 **Ariel Peretz** (arielinseattle29 at gmail dot com) is an avid hiker living in the Puget Sound area. He plays indoor soccer, likes drawing, the New York Yankees, Montreal and often says "friends don't let friends drink Starbucks coffee".
