@@ -42,7 +42,7 @@ Principal Author is [Cliff Green](https://github.com/cliffg-softwarelibre).
 
 Principal Co-author is [Thurman Gillespy](https://tgill880.github.io).
 
-Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch](https://github.com/n-deutsch), and [Casey Ghilardi](https://github.com/Crghilardi).
+Team Members are [Roxanne Agerone](https://github.com/oxenran), [Nathan Deutsch](https://github.com/n-deutsch), [Casey Ghilardi](https://github.com/Crghilardi), and [Bryan Concari](https://github.com/irql).
 
 Logo and banner designed by Ariel Peretz.
 
