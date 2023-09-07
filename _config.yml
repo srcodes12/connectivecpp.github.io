@@ -5,7 +5,7 @@ timezone: UTC
 baseurl: "/ConnectiveC++"
 permalink: "/:title/"
 logo: 'assets/images/logo.svg'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logo.ico'
 author: Sal
 paginate: 30
 disqus: 'connectivec++website'
