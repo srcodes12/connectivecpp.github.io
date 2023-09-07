@@ -1,6 +1,10 @@
 # Top Menu
 topmenu:
 
+- title: Open ConnectiveCPP
+  url: "https://connectivecpp.com/"
+  external: true
+
 - title: Home
   url: ""
 
